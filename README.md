@@ -20,9 +20,8 @@
 </div>
 
 ## About Me:
-I am a Front-End Developer with a passion 
+I am a Front-End Developer with a passion for continous learning and growth. I've spent the last decade optimizing processes, assisting project development, and helping build businesses. When I saw how much I enjoyed the creation of software I knew I could use my business background to bring efficiency and helpful support to the developer teams I am a part of.
 
-Before
 
 <p>
    <a href="https://www.linkedin.com/in/daniel-r-neer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
