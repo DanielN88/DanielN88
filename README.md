@@ -2,7 +2,7 @@
 
 </div>
 
-<h1 align='center'>Hey there, im Daniel(He/Him) <img width="30em" height="30em" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+<h1 align='center'>Hi there, im Daniel(He/Him) <img width="30em" height="30em" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
 </h1>
  
 
